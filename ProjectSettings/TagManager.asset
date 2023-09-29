@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player2D
+  - FinalBoss
+  - PlataformaMovil
+  - ExplosionFinal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player2D
+  - Enemies2D
+  - BlockEnemies
+  - Colinas
+  - "L\xEDmite"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Arboles
+    uniqueID: 2202325477
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 854326875
+    locked: 0
+  - name: Player
+    uniqueID: 2393783989
+    locked: 0

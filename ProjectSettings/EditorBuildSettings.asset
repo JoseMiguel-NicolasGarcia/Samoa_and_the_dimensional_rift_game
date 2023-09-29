@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 889d804d882524a10b096b48e242e544
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/2D.unity
+    guid: 59d1807f44e7d8945a98bc8d0c440cff
+  - enabled: 1
+    path: Assets/Scenes/Nevada.unity
+    guid: c0926f2ccb039f44abc9f0ef92a35948
+  - enabled: 1
+    path: Assets/Scenes/2D nv2.unity
+    guid: cdfea954db8bb4046a6762ef8adef6ad
+  - enabled: 1
+    path: Assets/Scenes/FinalBoss.unity
+    guid: d4583f37883a0674fa529da3ba21aee9
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: b2569d5413b4a452ab607833f96fd957
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: a5491cc6e31854761a9609fa926e073a
+  m_configObjects: {}
