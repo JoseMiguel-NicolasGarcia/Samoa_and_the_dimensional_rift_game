@@ -12,7 +12,10 @@ The primary goal of this project is to create a complete video game that explore
 - [Story](#story)
 - [Game Mechanics](#game-mechanics)
 - [Gameplay Video](#gameplay-video)
+- [Running the Project](#running-the-project)
 - [License](#license)
+
+
 
 
 ## Story
@@ -40,6 +43,18 @@ Our intrepid hero, Maui, finds himself on the island of Samoa, plagued by the ma
 Watch the full gameplay of our video game by clicking the link below:
 
 Click this [link](https://drive.google.com/file/d/16JE7ZrIm4BxCNzL1qHFY1zkPhZUMKDcy/view?usp=sharing) to view the gameplay video on Google Drive.
+
+## Running the Project
+
+To run the project, follow these steps:
+
+1. Download the project from this GitHub repository. You can either clone it or download it as a ZIP file.
+
+2. Once downloaded, navigate to the "Ejecutable" folder within the project.
+
+3. In the "Executable" folder, you will find an executable file with the `.exe` extension. This file is the game's executable (only for windows operating system).
+
+
 
 
 ## License
